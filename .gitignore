@@ -1,0 +1,10 @@
+out/
+*.iml
+/target
+/build
+/.gradle
+*.ipr
+*.iws
+**/.DS_Store
+**/database.properties
+.idea/
